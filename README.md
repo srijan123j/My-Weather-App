@@ -6,7 +6,7 @@ This is an android app which gives information about the current weather conditi
 <li>The app gives the information about the current weather in both the Celsius and the Fahrenheit scales.</li>
 <li>The app also gives the information about the Humidity level, Pressure and the wind speed.</li>
 </ol>
-</br>To make the users' experience better some of the best practices followed in the market are used, such as:-</br>
+</br>To make the users' experience better some of the best practices followed in the market are used, such as:-</br></br>
 <ul>
 <li>Shared Preference is used to store and save users' preferences of the weather scale and users' location</li>
 <li>The implicit intent is used to facilitate the users to share the weather conditions with others.</li>
