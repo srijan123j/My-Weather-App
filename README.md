@@ -1,6 +1,4 @@
 # My-Weather-App
-Android App
-
 This is an android app which gives information about the current weather conditions and the weather forecast of the users' location which they can also share.
 </br>Functionalities of the app include:-
 <ol>
