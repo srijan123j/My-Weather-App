@@ -3,8 +3,8 @@ This is an android app which gives information about the current weather conditi
 </br></br>Functionalities of the app include:-
 <ol>
 <li>Users can select location about whose weather conditions they want to know.</li>
-<li>The app gives the information about the current weather in both the Celsius and the Fahrenheit scales.</li>
 <li>The app also gives the information about the Humidity level, Pressure and the wind speed.</li>
+<li>Users can also share the weather information using the app.</li>
 </ol>
 </br>To make the users' experience better some of the best practices followed in the market are used, such as:-</br></br>
 <ul>
