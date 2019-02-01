@@ -2,7 +2,7 @@
 This is an android app which gives information about the current weather conditions and the weather forecast of the users' location which they can also share.
 </br></br>Functionalities of the app include:-
 <ol>
-<li>Users can select any location about whose weather conditions they want to know.</li>
+<li>Users can select location about whose weather conditions they want to know.</li>
 <li>The app gives the information about the current weather in both the Celsius and the Fahrenheit scales.</li>
 <li>The app also gives the information about the Humidity level, Pressure and the wind speed.</li>
 </ol>
